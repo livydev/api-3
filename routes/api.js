@@ -9,10 +9,10 @@ var lolkill = db.get("lolkill");
 	console.log('')
 }
 
-var creatorList = ['Fardan','Fax official','Fax-xyzapi','Fard','Fard','Fax-api','Fard','Faxganz','Fardan'];
+var creatorList = ['Fardan','LivyyDF'];
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
 
-keyapi = 'milikkita'
+keyapi = 'apirai'
 
 var axios = require('axios');
 var qs = require('qs');
